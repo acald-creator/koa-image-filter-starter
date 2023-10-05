@@ -1,0 +1,14 @@
+{
+  "name": "koa-image-filter-starter",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
